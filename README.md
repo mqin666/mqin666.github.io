@@ -1,15 +1,12 @@
-## Welcome to QIN Mian's homepage
+### Biography
 
-Under construction...
+I am currently a Ph.D. student in the Department of Mechanical and Automation Engineering, The Chinese University of Hong Kong (CUHK).
 
-### CODING
-
-Under construction...
-
-### INTERESTING
-
-Under construction...
 
 ### NEWS
+
+Under construction...
+
+### Teaching
 
 Under construction...
